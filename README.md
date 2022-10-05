@@ -14,7 +14,7 @@ In this Session, I will demonstrate how to __Publish Terraform Plan in Azure Dev
 | --------- |
 | __LIVE DEMO__ was Recorded as part of my Presentation in __AZURE BACK TO SCHOOL - 2022__ Forum/Platform |
 | Duration of My Demo = __37 Mins 04 Secs__ |
-| {% youtube pGmy-IkytCQ %} |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pGmy-IkytCQ/0.jpg)](https://www.youtube.com/watch?v=pGmy-IkytCQ) |
 
 | __REQUIREMENTS:-__ |
 | --------- |
