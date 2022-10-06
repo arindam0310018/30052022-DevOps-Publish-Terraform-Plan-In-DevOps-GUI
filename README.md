@@ -722,3 +722,7 @@ loga-retention  = "30"
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l5zo1swcpsuye6575dtu.png) |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k4qsr6hrutl5a6e5jypk.png) |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g0i35z11u12w366b6mmm.png) |
+
+Hope You Enjoyed the Session!!!
+
+__Stay Safe | Keep Learning | Spread Knowledge__
